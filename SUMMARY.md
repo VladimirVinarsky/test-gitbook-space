@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Page changed in app](README.md)
+* [Intro](README.md)
 
 ## First group
 
