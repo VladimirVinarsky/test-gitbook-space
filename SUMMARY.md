@@ -11,3 +11,7 @@
 * [Google docs](first-group/google-docs/README.md)
   * [link to google-doc](https://docs.google.com/document/d/1n2e\_8dFyFi6no3q1ILOLQudt1MiCbFWlUEPVdiEk7V0/edit?usp=sharing)
   * [document for gitbook](first-group/google-docs/document-for-gitbook.md)
+
+## Second Group
+
+* [bash guide](https://mywiki.wooledge.org/BashGuide)
