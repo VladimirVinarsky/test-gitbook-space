@@ -10,7 +10,7 @@ echo "hello world"
 
 
 {% tabs %}
-{% tab title="First Tab" %}
+{% tab title="bash" %}
 {% code title="bash" %}
 ```
 echo "some bash stuff"
@@ -18,7 +18,7 @@ echo "some bash stuff"
 {% endcode %}
 {% endtab %}
 
-{% tab title="Second Tab" %}
+{% tab title="R code" %}
 {% code title="R" %}
 ```
 print("some R stuff")
