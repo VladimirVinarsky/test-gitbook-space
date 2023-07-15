@@ -23,19 +23,24 @@ print("some R stuff")
 {% endtab %}
 {% endtabs %}
 
-{% hint style="info" %}
-Be aware that things can change so keep saving.
+{% hint style="success" %}
+The exit code 0 means success in linux world
 {% endhint %}
 
 {% hint style="info" %}
+Using tab completion can save you a lot of typing:)
+{% endhint %}
+
+{% hint style="warning" %}
+Be aware that things can change so keep saving.
+{% endhint %}
+
+{% hint style="danger" %}
 the `rm -rf /` is a very dangerous command
 {% endhint %}
 
 
 
-{% hint style="info" %}
-Using tab completion can save you a lot of typing:)
-{% endhint %}
 
 
 
